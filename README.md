@@ -10,7 +10,7 @@
 - ⚡ Fun fact: There is no fun fact.
 
 ### Personal information
-I'm Fabio, a 17 yr old german developer who's looking forward to create tools, bots, services, games and websites. My work is done to restore the fariness in online service usage by being another contribution to the Open Source world!
+I'm Fabio, a 18 yr old german developer who's looking forward to create tools, bots, services, games and websites. My work is done to restore the fariness in online service usage by being another contribution to the Open Source world!
 
 <h3 align="left">You can Connect with me using the following</h3>
 <a href="https://discord.com/invite/DSNkQKXwrz" target="blank"><p>Community Discord</p></a>
