@@ -4,7 +4,7 @@
 #### Since you're already here, why don't you read some stuff about me!
 - 🔭 I’m currently working on Discord Bots and other software!
 - 🌱 I’m currently learning better Java and web Development
-- 👯 I’m looking to collaborate on Tools or bots
+- 👯 I’m looking to collaborate on Nothing.
 - 💬 Ask me about Code or other stuff
 - 📫 How to reach me: **contact.fabiogaming@gmail.com** or **FabioGaming#0909** (503967480625233932)
 - ⚡ Fun fact: There is no fun fact.
