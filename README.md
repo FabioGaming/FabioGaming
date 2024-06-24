@@ -2,15 +2,15 @@
 ### Welcome to my Github Profile!
 
 #### Since you're already here, why don't you read some stuff about me!
-- 🔭 I’m currently working on Discord Bots and other software!
-- 🌱 I’m currently learning better Java and web Development
+- 🔭 I’m currently working on Libraries and Mobile Apps!
+- 🌱 I’m currently learning better Web and Mobile Development
 - 👯 I’m looking to collaborate on Nothing.
 - 💬 Ask me about Code or other stuff
-- 📫 How to reach me: **contact.fabiogaming@gmail.com** or **FabioGaming#6914** (1071594003717423134)
+- 📫 How to reach me: **contact.fabiogaming@gmail.com** or **@fabiogaming** (1071594003717423134)
 - ⚡ Fun fact: There is no fun fact.
 
 ### Personal information
-I'm Fabio, a 19 yr old german developer who's looking forward to create tools, bots, services, games and websites. My work is done to restore the fariness in online service usage by being another contribution to the Open Source world!
+I'm Fabio, a 20 yr old german developer who's looking forward to create tools, bots, services, games and websites. My work is done to restore the fariness in online service usage by being another contribution to the Open Source world!
 
 <h3 align="left">You can Connect with me using the following</h3>
 <a href="https://discord.com/invite/DSNkQKXwrz" target="blank"><p>Community Discord</p></a>
