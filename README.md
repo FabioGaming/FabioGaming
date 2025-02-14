@@ -101,6 +101,7 @@
    ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
    ![Expo SDK](https://img.shields.io/badge/Expo%20SDK-1C2024?style=for-the-badge&logo=expo&logoColor=white)
    ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
    
   </div>
 
