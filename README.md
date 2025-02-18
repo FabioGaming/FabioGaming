@@ -23,10 +23,10 @@
 ---
 
 ### Like what I do?
-<div>
+<div align="center">
   
   [![Hire me on Fiverr](https://img.shields.io/badge/Hire%20Me%20On%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/fabidevservices/)
-  or
+  <strong>or</strong>
   [![Support me on Kofi](https://img.shields.io/badge/Support%20Me%20On%20Kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/fabiothefox)
   
 </div>
@@ -101,18 +101,41 @@
    ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
    ![Expo SDK](https://img.shields.io/badge/Expo%20SDK-1C2024?style=for-the-badge&logo=expo&logoColor=white)
    ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
    
   </div>
 
+
+  **Also Familiar with**
+  
+  _Languages that I know how to write and work with but that did not make the cut into my day-to-day stack_
+
+  <div>
+
+  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Batch](https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+  </div>
+  
+
+  
+
+  
+
 ---
 
-  ### **Github Stats**
+  ### **Github & Code Stats**
 
   <div>
 
    <img src="https://github-readme-stats.vercel.app/api?username=fabiogaming&show_icons=true&theme=radical" width="400">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogaming&layout=compact&theme=radical" alt="Most Used Languages">
+   
+   [![wakatime](https://wakatime.com/badge/user/f9f26bd5-f666-4a74-a821-cdeb5ba176ed.svg?style=for-the-badge)](https://wakatime.com/@f9f26bd5-f666-4a74-a821-cdeb5ba176ed)
+   
   </div>
 
 ---
