@@ -1,7 +1,7 @@
 <div align="center">
   
   ### **About Me**
-  I'm a 20-year-old German full-stack dev for Web and Cross-Platform Mobile. Also doing freelance work for chatbots on Discord & Telegram, as well as web development.
+  I'm a 21-year-old German full-stack dev for Web and Cross-Platform Mobile. Also doing freelance work for chatbots on Discord & Telegram, as well as web development.
   
   Mostly using .NET and NodeJS but capable of working with other stacks.
 
@@ -60,6 +60,7 @@
     
    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
    ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+   ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
    
   </div>
 
@@ -87,6 +88,7 @@
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
    
   </div>
 
