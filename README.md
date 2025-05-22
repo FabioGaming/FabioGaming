@@ -25,7 +25,7 @@
 ### Like what I do?
 <div align="center">
   
-  [![Hire me on Upwork](https://img.shields.io/badge/Hire%20Me%20On%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](www.upwork.com/freelancers/~0167fb718f2b74dcd6)
+  [![Hire me on Upwork](https://img.shields.io/badge/Hire%20Me%20On%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/~0167fb718f2b74dcd6)
   <strong>or</strong>
   [![Support me on Kofi](https://img.shields.io/badge/Support%20Me%20On%20Kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/fabiothefox)
   
