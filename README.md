@@ -5,7 +5,7 @@
   
   Mostly using .NET and NodeJS but capable of working with other stacks.
 
-  Currently working on [Luminate](https://github.com/LuminateDev), my own social media app
+  Currently working on [Luminate](https://github.com/LuminateLabs), my own social media app
 
 ---
 
