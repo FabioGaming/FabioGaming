@@ -132,7 +132,7 @@ _Languages that I know how to write and work with but that did not make the cut 
   <div>
 
    <img src="https://gwagwastats.vercel.app/api?username=fabiogaming&show_icons=true&theme=radical&include_all_commits=true" width="400">
-   <img src="https://gwagwastats.vercel.app/api/top-langs/?username=fabiogaming&layout=compact&theme=radical" alt="Most Used Languages">
+   <img src="https://gwagwastats.vercel.app/api/top-langs/?username=fabiogaming&layout=compact&theme=radical&exclude_repo=gwagwastats" alt="Most Used Languages">
    <img src="https://gwagwastats.vercel.app/api/wakatime?username=fabiothefox&layout=compact&theme=radical&hide=JSON,Binary,Other,YAML&langs_count=10&custom_title=WakaTime%20Stats%20-%20Top%2010">
    
    [![wakatime](https://wakatime.com/badge/user/f9f26bd5-f666-4a74-a821-cdeb5ba176ed.svg?style=for-the-badge)](https://wakatime.com/@f9f26bd5-f666-4a74-a821-cdeb5ba176ed)
