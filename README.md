@@ -91,7 +91,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)](https://surrealdb.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
     
 </div>
 
@@ -103,10 +102,13 @@ _Technologies I frequently use but don’t fit into a single category._
 [![Discord.NET](https://img.shields.io/badge/Discord.NET-5865F2?style=for-the-badge&logo=.NET&logoColor=white)](https://discordnet.dev)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io)
 [![EntityFrameworkCore](https://img.shields.io/badge/EntityFrameworkCore-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://learn.microsoft.com/ef/core)
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
 [![Expo SDK](https://img.shields.io/badge/Expo%20SDK-1C2024?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white)](https://avaloniaui.net)
+[![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org)
+
+
     
 </div>
 
