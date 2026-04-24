@@ -107,6 +107,7 @@ _Technologies I frequently use but don’t fit into a single category._
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white)](https://avaloniaui.net)
 [![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org)
+[![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)](https://www.raylib.com)
 
 
     
