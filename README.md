@@ -1,7 +1,7 @@
 <div align="center">
   
   ### **About Me**
-  I'm a 21-year-old German full-stack dev for Web and Cross-Platform Mobile. Also doing freelance work for chatbots on Discord & Telegram, as well as web development.
+  I'm a 22-year-old German full-stack dev for Web and Cross-Platform Mobile. Also doing freelance work for chatbots on Discord & Telegram, as well as web development.
   
   Mostly using .NET and NodeJS but capable of working with other stacks.
 
