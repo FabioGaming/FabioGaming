@@ -34,7 +34,12 @@
 
 ---
 ### **Tech Stack**
+
+_This list might change over time to adapt to my latest activity_
+
 **Languages**
+
+
 <div>
     
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
@@ -42,7 +47,6 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
     
 </div>
 
@@ -52,6 +56,11 @@
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+
+
+
 
 </div>
 
@@ -124,9 +133,24 @@ _Languages that I know how to write and work with but that did not make the cut 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Batch](https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+
+
 
 </div>
 
+**Currently Looking Into**
+
+_Languages & Technologies that I am currently taking a look at_
+
+<div>
+  
+  [![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/)
+  [![Odin](https://img.shields.io/badge/odin-3882D2?style=for-the-badge&logo=odin&logoColor=white)](https://odin-lang.org/)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+  
+</div>
 
 ---
 
