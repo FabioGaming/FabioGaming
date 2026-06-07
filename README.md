@@ -58,9 +58,6 @@ _This list might change over time to adapt to my latest activity_
 [![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
-
-
-
 </div>
 
 **Web**
@@ -115,9 +112,8 @@ _Technologies I frequently use but don’t fit into a single category._
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20%26%20NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white)](https://avaloniaui.net)
 [![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)](https://www.raylib.com)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)](https://www.redis.io)
 
-
-    
 </div>
 
 **Also Familiar with**
@@ -135,9 +131,6 @@ _Languages that I know how to write and work with but that did not make the cut 
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-
-
-
 </div>
 
 **Currently Looking Into**
@@ -150,7 +143,6 @@ _Languages & Technologies that I am currently taking a look at_
   [![Odin](https://img.shields.io/badge/odin-3882D2?style=for-the-badge&logo=odin&logoColor=white)](https://odin-lang.org/)
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
   [![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org)
-  
   
 </div>
 
